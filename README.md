@@ -1,11 +1,11 @@
 # zomato-financial-analysis
-# Zomato Financial Performance Dashboard
+# 📊 Zomato Financial Performance Dashboard
 
 This Power BI project explores the financial performance of Zomato across 11 quarters, using real time investor-reported data from Q1 FY21 to Q3 FY24. It was developed as a practical application of the concepts I learned during my Business Analyst internship at VR Education.
 
 ---
 
-## Why This Project?
+## ✨ Why This Project?
 
 I’ve always been drawn to **analytics** — not just because of the numbers, but because of how **data visualization combines logic with creativity**. There’s something deeply satisfying about turning rows of financial data into visuals that instantly communicate meaning. At the same time, I’ve long been fascinated by **finance** and the way money flows through systems, companies, and economies.
 
@@ -13,11 +13,11 @@ This project gave me the perfect space to bring both interests together — to w
 
 ---
 
-## Project Summary
+## 📁 Project Summary
 
 This dashboard captures Zomato’s financial trajectory over time, showing how the company has evolved across various key metrics. The data was manually compiled and cleaned from Zomato’s quarterly investor reports (PDFs), then modeled and visualized in Power BI.
 
-### Tracked Metrics:
+### 📌 Tracked Metrics:
 - Adjusted Revenue
 - EBITDA & EBITDA Margin
 - Net Profit / Loss
@@ -26,7 +26,7 @@ This dashboard captures Zomato’s financial trajectory over time, showing how t
 
 ---
 
-## Skills Applied
+## 🧠 Skills Applied
 
 - **Data Modeling**: Relationship design, custom sorting (for quarters), calendar handling
 - **DAX Measures**: EPS, profit margin, latest quarter calculations, and conditional formatting logic
@@ -37,14 +37,14 @@ This dashboard captures Zomato’s financial trajectory over time, showing how t
 
 ---
 
-## Dashboard Layout
+## 🖥️ Dashboard Layout
 
-### Page 1: *Financial Overview*
+### 📄 Page 1: *Financial Overview*
 - KPI cards for total revenue, EBITDA, net profit and profit margin
 - Trend charts with synced slicer to view quarter-wise performance
 - Custom tooltip-enabled visuals for richer interactivity
 
-### Page 2: *Margin Trends & Quarter Summary*
+### 📄 Page 2: *Margin Trends & Quarter Summary*
 - Clean trend line for profit margin
 - Latest KPI indicators for margins and EPS
 - Matrix table showing all key metrics with conditional formatting by quarter
